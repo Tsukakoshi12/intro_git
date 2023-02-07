@@ -4,6 +4,3 @@ Practice_git
 pppp
 
 henkousitakasyo
-
-henkou2
-

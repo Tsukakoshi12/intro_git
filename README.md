@@ -9,3 +9,6 @@ git レクチャー用のリポジトリ
 ##teammenmer
 jiji
 mayuko
+
+##git pull
+リモートリポジトリの情報をローカルに取り込み、ローカルファイルを更新

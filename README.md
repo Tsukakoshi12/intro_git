@@ -9,3 +9,6 @@ git レクチャー用のリポジトリ
 ##teammenmer
 jiji
 mayuko
+
+##git fetch
+リモートリポジトリの情報をローカルに取り込み、ローカルのファイルは更新しない
